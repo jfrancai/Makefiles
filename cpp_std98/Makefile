@@ -5,7 +5,6 @@ CFLAGS := -Wall -Werror -Wextra -std=c++98 -I utils/
 
 SRCSDIR := srcs/
 OBJSDIR := objs/
-UTILSDIR := utils/
 
 SRCS := main.cpp
 
